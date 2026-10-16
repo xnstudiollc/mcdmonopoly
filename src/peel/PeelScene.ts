@@ -125,8 +125,8 @@ export class PeelScene {
     this.camera.position.set(0, 0, 3)
     this.camera.lookAt(0, 0, 0)
 
-    this.scene.add(new THREE.AmbientLight(0xffffff, 1.5))
-    const key = new THREE.DirectionalLight(0xfff6e8, 2.3)
+    this.scene.add(new THREE.AmbientLight(0xffffff, 0.9))
+    const key = new THREE.DirectionalLight(0xfff6e8, 1.5)
     key.position.set(-0.9, 1.1, 2.2)
     key.castShadow = true
     key.shadow.mapSize.set(2048, 2048)
@@ -203,10 +203,10 @@ export class PeelScene {
 
       const frontMat = new THREE.MeshStandardMaterial({
         map: frontTex,
-        metalness: 0.5,
-        roughness: 0.3,
+        metalness: 0.35,
+        roughness: 0.36,
         envMap: env,
-        envMapIntensity: 0.9,
+        envMapIntensity: 0.35,
         alphaTest: 0.5,
         side: THREE.FrontSide,
         shadowSide: THREE.DoubleSide,
@@ -317,7 +317,8 @@ export class PeelScene {
   }
 
   private fit() {
-    const halfH = Math.max(this.itemHeight / 2, 0.5 / this.camera.aspect) * 1.1
+    const portrait = this.camera.aspect < 0.8
+    const halfH = Math.max(this.itemHeight / 2, 0.5 / this.camera.aspect) * (portrait ? 1.0 : 1.1)
     this.camera.position.z = halfH / Math.tan((this.camera.fov / 2) * DEG)
     this.camera.updateProjectionMatrix()
   }
@@ -340,14 +341,21 @@ export class PeelScene {
     return { x: dx * Math.cos(a) - dy * Math.sin(a), y: dx * Math.sin(a) + dy * Math.cos(a) }
   }
 
-  private hitTest(world: THREE.Vector3) {
+  /** Touch input gets a margin around each sticker and a wider edge zone, since fingers are imprecise. */
+  private hitTest(world: THREE.Vector3, coarse: boolean) {
+    const zone = this.opts.getConfig().grabEdgeZone * (coarse ? 1.35 : 1)
     for (let i = this.entries.length - 1; i >= 0; i--) {
       const entry = this.entries[i]!
       const phase = entry.controller.phase
       if (phase !== 'idle' || entry.fadeT >= 0) continue
-      const local = this.toLocal(entry, world)
-      if (Math.abs(local.x) > entry.w / 2 || Math.abs(local.y) > entry.h / 2) continue
-      const grabbable = edgeDistance(local.x, local.y, entry.w, entry.h) <= this.opts.getConfig().grabEdgeZone * entry.h
+      const raw = this.toLocal(entry, world)
+      const pad = coarse ? entry.h * 0.35 : 0
+      if (Math.abs(raw.x) > entry.w / 2 + pad || Math.abs(raw.y) > entry.h / 2 + pad) continue
+      const local = {
+        x: Math.max(-entry.w / 2, Math.min(entry.w / 2, raw.x)),
+        y: Math.max(-entry.h / 2, Math.min(entry.h / 2, raw.y)),
+      }
+      const grabbable = edgeDistance(local.x, local.y, entry.w, entry.h) <= zone * entry.h
       return { entry, local, grabbable }
     }
     return null
@@ -367,7 +375,7 @@ export class PeelScene {
     this.opts.audio?.unlock()
     const world = this.toWorld(e)
     if (!world) return
-    const hit = this.hitTest(world)
+    const hit = this.hitTest(world, e.pointerType !== 'mouse')
     if (!hit) return
     e.preventDefault()
 
@@ -404,7 +412,7 @@ export class PeelScene {
       return
     }
     if (this.activePointer !== null || e.pointerType !== 'mouse') return
-    const hit = this.hitTest(world)
+    const hit = this.hitTest(world, false)
     this.opts.canvas.style.cursor = hit ? (hit.grabbable || this.opts.reducedMotion ? 'grab' : 'pointer') : ''
   }
 
