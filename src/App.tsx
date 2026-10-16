@@ -1,12 +1,14 @@
+import { lazy, Suspense } from 'react'
 import { Route, Routes } from 'react-router-dom'
 import { Footer } from './components/Footer.tsx'
 import { Header } from './components/Header.tsx'
 import { dataErrors } from './engine/data.ts'
 import { BoardPage } from './pages/BoardPage.tsx'
 import { Home } from './pages/Home.tsx'
-import { PeelLab } from './pages/PeelLab.tsx'
-import { PeelView } from './pages/PeelView.tsx'
 import { PrizeGuide } from './pages/PrizeGuide.tsx'
+
+const PeelView = lazy(() => import('./pages/PeelView.tsx').then((m) => ({ default: m.PeelView })))
+const PeelLab = lazy(() => import('./pages/PeelLab.tsx').then((m) => ({ default: m.PeelLab })))
 
 function DataErrors() {
   return (
@@ -31,7 +33,8 @@ export function App() {
       {dataErrors.length > 0 ? (
         <DataErrors />
       ) : (
-        <Routes>
+        <Suspense fallback={<main className="page page--center muted">Loading…</main>}>
+          <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/item/:itemId" element={<PeelView />} />
           <Route path="/board" element={<BoardPage />} />
@@ -45,7 +48,8 @@ export function App() {
               </main>
             }
           />
-        </Routes>
+          </Routes>
+        </Suspense>
       )}
       <Footer />
     </div>
