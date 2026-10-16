@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd34d"/>
+      <stop offset="1" stop-color="#f2b51f"/>
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e3311f"/>
+      <stop offset="1" stop-color="#a9180f"/>
+    </linearGradient>
+  </defs>
+  <path d="M150 360 L280 210 H720 L850 360 Z" fill="url(#top)"/>
+  <path d="M150 360 H850 V780 Q500 820 150 780 Z" fill="url(#front)"/>
+  <path d="M150 360 H850 V400 H150 Z" fill="#c22416"/>
+  <text x="500" y="320" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="70" font-weight="900" fill="#da291c">BIG MAC</text>
+  <path d="M432 640 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z M522 640 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z" fill="#ffc72c" transform="translate(-30 -20) scale(1.06)"/>
+  <rect x="300" y="850" width="400" height="44" rx="8" fill="#000" opacity="0.35"/>
+  <text x="500" y="880" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · BIG MAC</text>
+</svg>

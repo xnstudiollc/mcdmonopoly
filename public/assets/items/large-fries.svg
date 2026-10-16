@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="box" x1="0" x2="1">
+      <stop offset="0" stop-color="#b81d12"/>
+      <stop offset="0.45" stop-color="#e2321f"/>
+      <stop offset="1" stop-color="#a5180f"/>
+    </linearGradient>
+    <linearGradient id="fry" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd85a"/>
+      <stop offset="1" stop-color="#f0a92b"/>
+    </linearGradient>
+  </defs>
+  <g fill="url(#fry)" stroke="#d68b16" stroke-width="4">
+    <rect x="300" y="110" width="42" height="300" rx="10" transform="rotate(-12 321 260)"/>
+    <rect x="360" y="80" width="42" height="320" rx="10" transform="rotate(-6 381 240)"/>
+    <rect x="420" y="60" width="42" height="340" rx="10" transform="rotate(-2 441 230)"/>
+    <rect x="480" y="50" width="42" height="350" rx="10"/>
+    <rect x="540" y="62" width="42" height="340" rx="10" transform="rotate(3 561 230)"/>
+    <rect x="600" y="82" width="42" height="320" rx="10" transform="rotate(7 621 240)"/>
+    <rect x="655" y="112" width="42" height="300" rx="10" transform="rotate(12 676 260)"/>
+  </g>
+  <path d="M230 330 Q500 400 770 330 L700 930 Q500 960 300 930 Z" fill="url(#box)"/>
+  <path d="M230 330 Q500 400 770 330 L762 395 Q500 465 238 395 Z" fill="#c4241a"/>
+  <path d="M410 520 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z M500 520 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z" fill="#ffc72c" transform="translate(-28 -10) scale(1.06)"/>
+  <rect x="300" y="860" width="400" height="44" rx="8" fill="#000" opacity="0.35"/>
+  <text x="500" y="890" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · LARGE FRIES</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffcf3f"/>
+      <stop offset="1" stop-color="#f0a81c"/>
+    </linearGradient>
+    <linearGradient id="side" x1="0" x2="1">
+      <stop offset="0" stop-color="#b81d12"/>
+      <stop offset="1" stop-color="#e2321f"/>
+    </linearGradient>
+  </defs>
+  <path d="M120 300 L230 200 H880 L770 300 Z" fill="#c4241a"/>
+  <path d="M770 300 L880 200 V720 L770 830 Z" fill="url(#side)"/>
+  <rect x="120" y="300" width="650" height="530" fill="url(#front)"/>
+  <rect x="120" y="300" width="650" height="60" fill="#da291c"/>
+  <text x="445" y="345" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="40" font-weight="900" fill="#fff">20 CHICKEN McNUGGETS</text>
+  <path d="M392 680 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z M482 680 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z" fill="#da291c" transform="translate(-24 -40) scale(1.06)"/>
+  <rect x="160" y="870" width="580" height="44" rx="8" fill="#000" opacity="0.35"/>
+  <text x="450" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · 20 PC McNUGGETS</text>
+</svg>
