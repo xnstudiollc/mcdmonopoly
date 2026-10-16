@@ -21,8 +21,9 @@ export async function renderBoardPng(collection: CollectionState): Promise<Blob>
   ctx.font = '900 64px "Helvetica Neue", Arial, sans-serif'
   ctx.fillText('McD', 48, 98)
   const mcdWidth = ctx.measureText('McD').width
+  const monoWidth = ctx.measureText('MONOPOLY').width
   ctx.fillStyle = '#da291c'
-  ctx.fillRect(48 + mcdWidth + 12, 42, 360, 72)
+  ctx.fillRect(48 + mcdWidth + 12, 42, monoWidth + 28, 72)
   ctx.fillStyle = '#ffffff'
   ctx.fillText('MONOPOLY', 48 + mcdWidth + 26, 100)
 
