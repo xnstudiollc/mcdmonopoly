@@ -21,7 +21,7 @@
   </g>
   <path d="M230 330 Q500 400 770 330 L700 930 Q500 960 300 930 Z" fill="url(#box)"/>
   <path d="M230 330 Q500 400 770 330 L762 395 Q500 465 238 395 Z" fill="#c4241a"/>
-  <path d="M410 520 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z M500 520 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z" fill="#ffc72c" transform="translate(-28 -10) scale(1.06)"/>
+  <path d="M0 200 C0 40 40 0 60 0 C80 0 100 60 110 140 C120 60 140 0 160 0 C180 0 220 40 220 200 L180 200 C180 90 170 40 160 40 C148 40 130 100 128 200 L92 200 C90 100 72 40 60 40 C50 40 40 90 40 200 Z" fill="#ffc72c" transform="translate(412.0 470) scale(0.8)"/>
   <rect x="300" y="860" width="400" height="44" rx="8" fill="#000" opacity="0.35"/>
-  <text x="500" y="890" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · LARGE FRIES</text>
+  <text x="500" y="890" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER Â· LARGE FRIES</text>
 </svg>

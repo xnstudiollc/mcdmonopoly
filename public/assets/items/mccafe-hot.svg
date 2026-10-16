@@ -15,7 +15,7 @@
   <ellipse cx="500" cy="170" rx="220" ry="26" fill="#3a3a3a"/>
   <path d="M275 240 h450 l-55 700 q-170 28 -340 0 z" fill="url(#cup)"/>
   <path d="M290 430 h420 l-20 300 q-190 34 -380 0 z" fill="url(#sleeve)"/>
-  <text x="500" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-style="italic" fill="#5a3a26">McCafé</text>
+  <text x="500" y="380" text-anchor="middle" font-family="Georgia, serif" font-size="64" font-style="italic" fill="#5a3a26">McCafÃ©</text>
   <rect x="320" y="870" width="360" height="44" rx="8" fill="#000" opacity="0.35"/>
-  <text x="500" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · McCAFÉ</text>
+  <text x="500" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER Â· McCAFÃ‰</text>
 </svg>

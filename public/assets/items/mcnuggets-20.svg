@@ -14,7 +14,7 @@
   <rect x="120" y="300" width="650" height="530" fill="url(#front)"/>
   <rect x="120" y="300" width="650" height="60" fill="#da291c"/>
   <text x="445" y="345" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="40" font-weight="900" fill="#fff">20 CHICKEN McNUGGETS</text>
-  <path d="M392 680 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z M482 680 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z" fill="#da291c" transform="translate(-24 -40) scale(1.06)"/>
+  <path d="M0 200 C0 40 40 0 60 0 C80 0 100 60 110 140 C120 60 140 0 160 0 C180 0 220 40 220 200 L180 200 C180 90 170 40 160 40 C148 40 130 100 128 200 L92 200 C90 100 72 40 60 40 C50 40 40 90 40 200 Z" fill="#da291c" transform="translate(401.0 530) scale(0.4)"/>
   <rect x="160" y="870" width="580" height="44" rx="8" fill="#000" opacity="0.35"/>
-  <text x="450" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · 20 PC McNUGGETS</text>
+  <text x="450" y="900" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER Â· 20 PC McNUGGETS</text>
 </svg>

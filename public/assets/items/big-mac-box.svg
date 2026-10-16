@@ -13,7 +13,7 @@
   <path d="M150 360 H850 V780 Q500 820 150 780 Z" fill="url(#front)"/>
   <path d="M150 360 H850 V400 H150 Z" fill="#c22416"/>
   <text x="500" y="320" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="70" font-weight="900" fill="#da291c">BIG MAC</text>
-  <path d="M432 640 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z M522 640 q30 -95 45 0 l0 120 h-26 v-110 q-10 -40 -19 0 v110 h-26 v-120 z" fill="#ffc72c" transform="translate(-30 -20) scale(1.06)"/>
+  <path d="M0 200 C0 40 40 0 60 0 C80 0 100 60 110 140 C120 60 140 0 160 0 C180 0 220 40 220 200 L180 200 C180 90 170 40 160 40 C148 40 130 100 128 200 L92 200 C90 100 72 40 60 40 C50 40 40 90 40 200 Z" fill="#ffc72c" transform="translate(406.5 560) scale(0.85)"/>
   <rect x="300" y="850" width="400" height="44" rx="8" fill="#000" opacity="0.35"/>
-  <text x="500" y="880" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · BIG MAC</text>
+  <text x="500" y="880" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER Â· BIG MAC</text>
 </svg>
