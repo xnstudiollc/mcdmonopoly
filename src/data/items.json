@@ -1,0 +1,61 @@
+[
+  {
+    "id": "large-fries",
+    "name": "Large Fries",
+    "image": "/assets/items/large-fries.svg",
+    "placeholder": true,
+    "stock": null,
+    "stickers": [
+      { "id": "s1", "x": 0.5, "y": 0.66, "size": 0.26, "rotation": -2 },
+      { "id": "s2", "x": 0.5, "y": 0.79, "size": 0.26, "rotation": 1.5 }
+    ]
+  },
+  {
+    "id": "large-drink",
+    "name": "Large Fountain Drink",
+    "image": "/assets/items/large-drink.svg",
+    "placeholder": true,
+    "stock": null,
+    "stickers": [
+      { "id": "s1", "x": 0.5, "y": 0.4, "size": 0.36, "rotation": 0 },
+      { "id": "s2", "x": 0.5, "y": 0.78, "size": 0.3, "rotation": -2 }
+    ]
+  },
+  {
+    "id": "big-mac",
+    "name": "Big Mac",
+    "image": "/assets/items/big-mac-box.svg",
+    "placeholder": true,
+    "stock": null,
+    "stickers": [{ "id": "s1", "x": 0.5, "y": 0.46, "size": 0.32, "rotation": 0 }]
+  },
+  {
+    "id": "quarter-pounder",
+    "name": "Quarter Pounder with Cheese",
+    "image": "/assets/items/qpc-box.svg",
+    "placeholder": true,
+    "stock": 3,
+    "stickers": [{ "id": "s1", "x": 0.5, "y": 0.48, "size": 0.32, "rotation": -3 }]
+  },
+  {
+    "id": "mcnuggets-20",
+    "name": "20 pc Chicken McNuggets",
+    "image": "/assets/items/mcnuggets-20.svg",
+    "placeholder": true,
+    "stock": null,
+    "stickers": [
+      { "id": "s1", "x": 0.28, "y": 0.45, "size": 0.24, "rotation": -4 },
+      { "id": "s2", "x": 0.62, "y": 0.45, "size": 0.24, "rotation": 3 },
+      { "id": "s3", "x": 0.27, "y": 0.68, "size": 0.22, "rotation": 2 },
+      { "id": "s4", "x": 0.66, "y": 0.68, "size": 0.22, "rotation": 6 }
+    ]
+  },
+  {
+    "id": "mccafe-hot",
+    "name": "McCafé Hot Beverage",
+    "image": "/assets/items/mccafe-hot.svg",
+    "placeholder": true,
+    "stock": null,
+    "stickers": [{ "id": "s1", "x": 0.5, "y": 0.58, "size": 0.3, "rotation": 0 }]
+  }
+]

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="top" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#5a3a26"/>
+      <stop offset="1" stop-color="#3b2416"/>
+    </linearGradient>
+    <linearGradient id="front" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7f2e6"/>
+      <stop offset="1" stop-color="#dcd3bf"/>
+    </linearGradient>
+  </defs>
+  <path d="M150 370 L280 220 H720 L850 370 Z" fill="url(#top)"/>
+  <path d="M150 370 H850 V790 Q500 830 150 790 Z" fill="url(#front)"/>
+  <path d="M150 370 H850 V410 H150 Z" fill="#da291c"/>
+  <text x="500" y="320" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="56" font-weight="900" fill="#ffc72c">QUARTER POUNDER</text>
+  <path d="M0 200 C0 40 40 0 60 0 C80 0 100 60 110 140 C120 60 140 0 160 0 C180 0 220 40 220 200 L180 200 C180 90 170 40 160 40 C148 40 130 100 128 200 L92 200 C90 100 72 40 60 40 C50 40 40 90 40 200 Z" fill="#da291c" transform="translate(412.0 590) scale(0.8)"/>
+  <rect x="270" y="860" width="460" height="44" rx="8" fill="#000" opacity="0.35"/>
+  <text x="500" y="890" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · QUARTER POUNDER</text>
+</svg>

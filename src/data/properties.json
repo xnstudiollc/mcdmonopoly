@@ -1,0 +1,403 @@
+{
+  "rareStampCaveat": "Reported rare stamps are unofficial and should be verified against official rules",
+  "groups": [
+    {
+      "id": "brown",
+      "name": "Brown",
+      "color": "#955436",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": "light-blue",
+      "name": "Light Blue",
+      "color": "#9fd8f2",
+      "textColor": "#10202a"
+    },
+    {
+      "id": "pink",
+      "name": "Pink",
+      "color": "#e23d8f",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": "orange",
+      "name": "Orange",
+      "color": "#f89b2e",
+      "textColor": "#1a1206"
+    },
+    {
+      "id": "red",
+      "name": "Red",
+      "color": "#ed2c2b",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": "yellow",
+      "name": "Yellow",
+      "color": "#ffe500",
+      "textColor": "#1a1700"
+    },
+    {
+      "id": "green",
+      "name": "Green",
+      "color": "#46b651",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": "dark-blue",
+      "name": "Dark Blue",
+      "color": "#1f5fae",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": "airports",
+      "name": "Airports / Transportation",
+      "color": "#393b3a",
+      "textColor": "#ffffff"
+    },
+    {
+      "id": "highways",
+      "name": "Highways / Utilities",
+      "color": "#a8a8a8",
+      "textColor": "#111111"
+    }
+  ],
+  "properties": [
+    {
+      "number": 801,
+      "name": "Rideau Canal",
+      "groupId": "brown",
+      "setId": "set-brown",
+      "rare": true
+    },
+    {
+      "number": 802,
+      "name": "Parliament Hill",
+      "groupId": "brown",
+      "setId": "set-brown",
+      "rare": false
+    },
+    {
+      "number": 803,
+      "name": "Lake Louise",
+      "groupId": "light-blue",
+      "setId": "set-light-blue",
+      "rare": false
+    },
+    {
+      "number": 804,
+      "name": "Mackenzie River",
+      "groupId": "light-blue",
+      "setId": "set-light-blue",
+      "rare": true
+    },
+    {
+      "number": 805,
+      "name": "Lake Athabasca",
+      "groupId": "light-blue",
+      "setId": "set-light-blue",
+      "rare": false
+    },
+    {
+      "number": 806,
+      "name": "Percé Rock",
+      "groupId": "pink",
+      "setId": "set-pink",
+      "rare": true
+    },
+    {
+      "number": 807,
+      "name": "Miles Canyon",
+      "groupId": "pink",
+      "setId": "set-pink",
+      "rare": false
+    },
+    {
+      "number": 808,
+      "name": "Lunenburg Harbour",
+      "groupId": "pink",
+      "setId": "set-pink",
+      "rare": false
+    },
+    {
+      "number": 809,
+      "name": "Signal Hill",
+      "groupId": "orange",
+      "setId": "set-orange",
+      "rare": false
+    },
+    {
+      "number": 810,
+      "name": "Peggys Cove",
+      "groupId": "orange",
+      "setId": "set-orange",
+      "rare": false
+    },
+    {
+      "number": 811,
+      "name": "Tunnels of Moose Jaw",
+      "groupId": "orange",
+      "setId": "set-orange",
+      "rare": true
+    },
+    {
+      "number": 812,
+      "name": "Confederation Bridge",
+      "groupId": "red",
+      "setId": "set-red",
+      "rare": true
+    },
+    {
+      "number": 813,
+      "name": "Baffin Island",
+      "groupId": "red",
+      "setId": "set-red",
+      "rare": false
+    },
+    {
+      "number": 814,
+      "name": "Bay of Fundy",
+      "groupId": "red",
+      "setId": "set-red",
+      "rare": false
+    },
+    {
+      "number": 815,
+      "name": "Algonquin Provincial Park",
+      "groupId": "yellow",
+      "setId": "set-yellow",
+      "rare": false
+    },
+    {
+      "number": 816,
+      "name": "Wapusk National Park",
+      "groupId": "yellow",
+      "setId": "set-yellow",
+      "rare": false
+    },
+    {
+      "number": 817,
+      "name": "Whistler",
+      "groupId": "yellow",
+      "setId": "set-yellow",
+      "rare": true
+    },
+    {
+      "number": 818,
+      "name": "Robson Street",
+      "groupId": "green",
+      "setId": "set-green",
+      "rare": false
+    },
+    {
+      "number": 819,
+      "name": "Sainte-Catherine Street",
+      "groupId": "green",
+      "setId": "set-green",
+      "rare": false
+    },
+    {
+      "number": 820,
+      "name": "Portage and Memorial",
+      "groupId": "green",
+      "setId": "set-green",
+      "rare": true
+    },
+    {
+      "number": 821,
+      "name": "Fairmont Le Château Frontenac",
+      "groupId": "dark-blue",
+      "setId": "set-dark-blue",
+      "rare": true
+    },
+    {
+      "number": 822,
+      "name": "Niagara Falls",
+      "groupId": "dark-blue",
+      "setId": "set-dark-blue",
+      "rare": false
+    },
+    {
+      "number": 823,
+      "name": "Montréal Airport",
+      "groupId": "airports",
+      "setId": "set-airports",
+      "rare": false
+    },
+    {
+      "number": 824,
+      "name": "Toronto Airport",
+      "groupId": "airports",
+      "setId": "set-airports",
+      "rare": false
+    },
+    {
+      "number": 825,
+      "name": "Halifax Airport",
+      "groupId": "airports",
+      "setId": "set-airports",
+      "rare": false
+    },
+    {
+      "number": 826,
+      "name": "Vancouver Airport",
+      "groupId": "airports",
+      "setId": "set-airports",
+      "rare": true
+    },
+    {
+      "number": 827,
+      "name": "Sea to Sky Highway",
+      "groupId": "highways",
+      "setId": "set-highways",
+      "rare": false
+    },
+    {
+      "number": 828,
+      "name": "Transcan Highway",
+      "groupId": "highways",
+      "setId": "set-highways",
+      "rare": true
+    }
+  ],
+  "sets": [
+    {
+      "id": "set-brown",
+      "groupId": "brown",
+      "prize": "2027 Nissan Kicks SV Premium AWD",
+      "stamps": [
+        801,
+        802
+      ],
+      "rareStamp": 801,
+      "startingAvailable": 7,
+      "oddsOneIn": 15223563,
+      "oddsDisplay": "1 in 15,223,563"
+    },
+    {
+      "id": "set-light-blue",
+      "groupId": "light-blue",
+      "prize": "Choice of one of four BRP vehicles",
+      "stamps": [
+        803,
+        804,
+        805
+      ],
+      "rareStamp": 804,
+      "startingAvailable": 4,
+      "oddsOneIn": 142663477,
+      "oddsDisplay": "1 in 142,663,477"
+    },
+    {
+      "id": "set-pink",
+      "groupId": "pink",
+      "prize": "$5,000 Ardene digital gift card",
+      "stamps": [
+        806,
+        807,
+        808
+      ],
+      "rareStamp": 806,
+      "startingAvailable": 10,
+      "oddsOneIn": 57065391,
+      "oddsDisplay": "1 in 57,065,391"
+    },
+    {
+      "id": "set-orange",
+      "groupId": "orange",
+      "prize": "Kennedy Space Center astronaut training trip for four",
+      "stamps": [
+        809,
+        810,
+        811
+      ],
+      "rareStamp": 811,
+      "startingAvailable": 7,
+      "oddsOneIn": 81521987,
+      "oddsDisplay": "1 in 81,521,987"
+    },
+    {
+      "id": "set-red",
+      "groupId": "red",
+      "prize": "$750 Circle K fuel gift card",
+      "stamps": [
+        812,
+        813,
+        814
+      ],
+      "rareStamp": 812,
+      "startingAvailable": 100,
+      "oddsOneIn": 20372502,
+      "oddsDisplay": "1 in 20,372,502"
+    },
+    {
+      "id": "set-yellow",
+      "groupId": "yellow",
+      "prize": "$5,000 Best Buy shopping spree",
+      "stamps": [
+        815,
+        816,
+        817
+      ],
+      "rareStamp": 817,
+      "startingAvailable": 5,
+      "oddsOneIn": 108695985,
+      "oddsDisplay": "1 in 108,695,985"
+    },
+    {
+      "id": "set-green",
+      "groupId": "green",
+      "prize": "Career Jersey Mystery Box",
+      "stamps": [
+        818,
+        819,
+        820
+      ],
+      "rareStamp": 820,
+      "startingAvailable": 10,
+      "oddsOneIn": 54347993,
+      "oddsDisplay": "1 in 54,347,993"
+    },
+    {
+      "id": "set-dark-blue",
+      "groupId": "dark-blue",
+      "prize": "5 million Avion Points or $50,000 cheque",
+      "stamps": [
+        821,
+        822
+      ],
+      "rareStamp": 821,
+      "startingAvailable": 6,
+      "oddsOneIn": 17760823,
+      "oddsDisplay": "1 in 17,760,823"
+    },
+    {
+      "id": "set-airports",
+      "groupId": "airports",
+      "prize": "Universal Orlando Resort trip for four",
+      "stamps": [
+        823,
+        824,
+        825,
+        826
+      ],
+      "rareStamp": 826,
+      "startingAvailable": 14,
+      "oddsOneIn": 140840710,
+      "oddsDisplay": "1 in 140,840,710"
+    },
+    {
+      "id": "set-highways",
+      "groupId": "highways",
+      "prize": "McDonald's for Life",
+      "stamps": [
+        827,
+        828
+      ],
+      "rareStamp": 828,
+      "startingAvailable": 3,
+      "oddsOneIn": 190217970,
+      "oddsDisplay": "1 in 190,217,970"
+    }
+  ]
+}

@@ -1,0 +1,1019 @@
+{
+  "promotion": "McDonald’s Monopoly Canada 2026",
+  "odds_basis": "Published starting odds; remaining availability changes as prizes are won",
+  "rare_stamp_caveat": "Reported rare stamps are unofficial and should be verified against official rules",
+  "prizes": [
+    {
+      "category": "Collect to win",
+      "prize": "2027 Nissan Kicks SV Premium AWD",
+      "required_properties": [
+        {
+          "name": "Rideau Canal",
+          "stamp_number": "801"
+        },
+        {
+          "name": "Parliament Hill",
+          "stamp_number": "802"
+        }
+      ],
+      "reported_rare_stamp": "Rideau Canal #801",
+      "starting_prizes_available": 7,
+      "odds_one_in": 15223563,
+      "odds_display": "1 in 15,223,563",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "Choice of one of four BRP vehicles",
+      "required_properties": [
+        {
+          "name": "Lake Louise",
+          "stamp_number": "803"
+        },
+        {
+          "name": "Mackenzie River",
+          "stamp_number": "804"
+        },
+        {
+          "name": "Lake Athabasca",
+          "stamp_number": "805"
+        }
+      ],
+      "reported_rare_stamp": "Mackenzie River #804",
+      "starting_prizes_available": 4,
+      "odds_one_in": 142663477,
+      "odds_display": "1 in 142,663,477",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "$5,000 Ardene digital gift card",
+      "required_properties": [
+        {
+          "name": "Percé Rock",
+          "stamp_number": "806"
+        },
+        {
+          "name": "Miles Canyon",
+          "stamp_number": "807"
+        },
+        {
+          "name": "Lunenburg Harbour",
+          "stamp_number": "808"
+        }
+      ],
+      "reported_rare_stamp": "Percé Rock #806",
+      "starting_prizes_available": 10,
+      "odds_one_in": 57065391,
+      "odds_display": "1 in 57,065,391",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "Kennedy Space Center astronaut training trip for four",
+      "required_properties": [
+        {
+          "name": "Signal Hill",
+          "stamp_number": "809"
+        },
+        {
+          "name": "Peggys Cove",
+          "stamp_number": "810"
+        },
+        {
+          "name": "Tunnels of Moose Jaw",
+          "stamp_number": "811"
+        }
+      ],
+      "reported_rare_stamp": "Tunnels of Moose Jaw #811",
+      "starting_prizes_available": 7,
+      "odds_one_in": 81521987,
+      "odds_display": "1 in 81,521,987",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "$750 Circle K fuel gift card",
+      "required_properties": [
+        {
+          "name": "Confederation Bridge",
+          "stamp_number": "812"
+        },
+        {
+          "name": "Baffin Island",
+          "stamp_number": "813"
+        },
+        {
+          "name": "Bay of Fundy",
+          "stamp_number": "814"
+        }
+      ],
+      "reported_rare_stamp": "Confederation Bridge #812",
+      "starting_prizes_available": 100,
+      "odds_one_in": 20372502,
+      "odds_display": "1 in 20,372,502",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "$5,000 Best Buy shopping spree",
+      "required_properties": [
+        {
+          "name": "Algonquin Provincial Park",
+          "stamp_number": "815"
+        },
+        {
+          "name": "Wapusk National Park",
+          "stamp_number": "816"
+        },
+        {
+          "name": "Whistler",
+          "stamp_number": "817"
+        }
+      ],
+      "reported_rare_stamp": "Whistler #817",
+      "starting_prizes_available": 5,
+      "odds_one_in": 108695985,
+      "odds_display": "1 in 108,695,985",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "Career Jersey Mystery Box",
+      "required_properties": [
+        {
+          "name": "Robson Street",
+          "stamp_number": "818"
+        },
+        {
+          "name": "Sainte-Catherine Street",
+          "stamp_number": "819"
+        },
+        {
+          "name": "Portage and Memorial",
+          "stamp_number": "820"
+        }
+      ],
+      "reported_rare_stamp": "Portage and Memorial #820",
+      "starting_prizes_available": 10,
+      "odds_one_in": 54347993,
+      "odds_display": "1 in 54,347,993",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "5 million Avion Points or $50,000 cheque",
+      "required_properties": [
+        {
+          "name": "Fairmont Le Château Frontenac",
+          "stamp_number": "821"
+        },
+        {
+          "name": "Niagara Falls",
+          "stamp_number": "822"
+        }
+      ],
+      "reported_rare_stamp": "Fairmont Le Château Frontenac #821",
+      "starting_prizes_available": 6,
+      "odds_one_in": 17760823,
+      "odds_display": "1 in 17,760,823",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "Universal Orlando Resort trip for four",
+      "required_properties": [
+        {
+          "name": "Montréal Airport",
+          "stamp_number": "823"
+        },
+        {
+          "name": "Toronto Airport",
+          "stamp_number": "824"
+        },
+        {
+          "name": "Halifax Airport",
+          "stamp_number": "825"
+        },
+        {
+          "name": "Vancouver Airport",
+          "stamp_number": "826"
+        }
+      ],
+      "reported_rare_stamp": "Vancouver Airport #826",
+      "starting_prizes_available": 14,
+      "odds_one_in": 140840710,
+      "odds_display": "1 in 140,840,710",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Collect to win",
+      "prize": "McDonald's for Life",
+      "required_properties": [
+        {
+          "name": "Sea to Sky Highway",
+          "stamp_number": "827"
+        },
+        {
+          "name": "Transcan Highway",
+          "stamp_number": "828"
+        }
+      ],
+      "reported_rare_stamp": "Transcan Highway #828",
+      "starting_prizes_available": 3,
+      "odds_one_in": 190217970,
+      "odds_display": "1 in 190,217,970",
+      "notes": "Must collect every listed property; rare-piece identification is unofficial"
+    },
+    {
+      "category": "Instant food",
+      "prize": "Medium Fries",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 4722856,
+      "odds_one_in": 23,
+      "odds_display": "1 in 23",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant food",
+      "prize": "Any Baked Muffin",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 2951785,
+      "odds_one_in": 37,
+      "odds_display": "1 in 37",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant food",
+      "prize": "Small Hot McCafé Beverage",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 2804196,
+      "odds_one_in": 39,
+      "odds_display": "1 in 39",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant food",
+      "prize": "Cheeseburger",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1475892,
+      "odds_one_in": 73,
+      "odds_display": "1 in 73",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant food",
+      "prize": "Sandwich",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1475892,
+      "odds_one_in": 73,
+      "odds_display": "1 in 73",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant food",
+      "prize": "Small Fountain Drink",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1328303,
+      "odds_one_in": 81,
+      "odds_display": "1 in 81",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant rewards points",
+      "prize": "1,000 points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 922432,
+      "odds_one_in": 116,
+      "odds_display": "1 in 116",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant rewards points",
+      "prize": "2,000 points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 737946,
+      "odds_one_in": 145,
+      "odds_display": "1 in 145",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant rewards points",
+      "prize": "4,000 points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 737946,
+      "odds_one_in": 145,
+      "odds_display": "1 in 145",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant rewards points",
+      "prize": "6,000 points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 737946,
+      "odds_one_in": 145,
+      "odds_display": "1 in 145",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant rewards points",
+      "prize": "10,000 points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 368993,
+      "odds_one_in": 289,
+      "odds_display": "1 in 289",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant rewards points",
+      "prize": "14,000 points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 184486,
+      "odds_one_in": 578,
+      "odds_display": "1 in 578",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$10 McDonald’s Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 10000,
+      "odds_one_in": 10657,
+      "odds_display": "1 in 10,657",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$20 Photo Prints+ Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1400000,
+      "odds_one_in": 77,
+      "odds_display": "1 in 77",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$20 Uber Eats Gift Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 10000,
+      "odds_one_in": 10657,
+      "odds_display": "1 in 10,657",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$30 DoorDash Gift Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 3000,
+      "odds_one_in": 35522,
+      "odds_display": "1 in 35,522",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 Cash",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 4500,
+      "odds_one_in": 23682,
+      "odds_display": "1 in 23,682",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 Best Buy Gift Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1500,
+      "odds_one_in": 71044,
+      "odds_display": "1 in 71,044",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 Things Engraved Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 2000,
+      "odds_one_in": 53283,
+      "odds_display": "1 in 53,283",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 Michaels Gift Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 3000,
+      "odds_one_in": 35522,
+      "odds_display": "1 in 35,522",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 SkipTheDishes Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 3000,
+      "odds_one_in": 35522,
+      "odds_display": "1 in 35,522",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 McDonald’s Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1500,
+      "odds_one_in": 71044,
+      "odds_display": "1 in 71,044",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 Circle K Fuel Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 2000,
+      "odds_one_in": 53283,
+      "odds_display": "1 in 53,283",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$50 JLab Gift Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1000,
+      "odds_one_in": 106565,
+      "odds_display": "1 in 106,565",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "Woobles Crochet Kit",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1500,
+      "odds_one_in": 71044,
+      "odds_display": "1 in 71,044",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "Google Home Speaker",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 715,
+      "odds_one_in": 149042,
+      "odds_display": "1 in 149,042",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "Paramount+ 1 Year",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 3062,
+      "odds_one_in": 34803,
+      "odds_display": "1 in 34,803",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$100 Vasanti Cosmetics Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1000,
+      "odds_one_in": 106565,
+      "odds_display": "1 in 106,565",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "URUNN Running Plan 6 Months",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 500000,
+      "odds_one_in": 214,
+      "odds_display": "1 in 214",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$150 Pickleball Paddles Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 667,
+      "odds_one_in": 159768,
+      "odds_display": "1 in 159,768",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "WithU Fitness 1 Year",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1000000,
+      "odds_one_in": 107,
+      "odds_display": "1 in 107",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$200 Cash",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1000,
+      "odds_one_in": 106565,
+      "odds_display": "1 in 106,565",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "Audio-Technica Sound Burger",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 220,
+      "odds_one_in": 484387,
+      "odds_display": "1 in 484,387",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "Large Fries Weekly for a Year",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 100,
+      "odds_one_in": 1065650,
+      "odds_display": "1 in 1,065,650",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$1,000 Ardene Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 100,
+      "odds_one_in": 1065650,
+      "odds_display": "1 in 1,065,650",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "JLab Ultimate Gaming Kit",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 10,
+      "odds_one_in": 10656494,
+      "odds_display": "1 in 10,656,494",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "Bloomex Gifts for a Year",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 40,
+      "odds_one_in": 2664124,
+      "odds_display": "1 in 2,664,124",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "250,000 Wyndham Points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 22,
+      "odds_one_in": 4843861,
+      "odds_display": "1 in 4,843,861",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Instant other",
+      "prize": "$10,000 Cash",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 7,
+      "odds_one_in": 15223563,
+      "odds_display": "1 in 15,223,563",
+      "notes": "Game-piece instant win; odds approximate at launch"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Any Baked Muffin",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 100000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Small Fountain Drink",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 45000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Cheeseburger",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 50000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Medium Fries",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 160000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Small Hot McCafé Beverage",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 95000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Sandwich",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 50000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "500 Rewards Points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 750000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "1,000 Rewards Points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 750000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "2,000 Rewards Points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 500000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "4,000 Rewards Points",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 250000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$15 Uber Eats Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 6667,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$15 Ardene Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 4000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$20 DoorDash Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 5500,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$20 Ardene Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 3125,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$20 Photo Prints+ Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 100000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$20 Cash",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 20000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$25 Circle K Fuel Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 5000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$25 Michaels Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1880,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$25 SkipTheDishes Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 6000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "MEGAMAN 11 Game Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 2437,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$50 Autograph Authentic Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1700,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$50 Ardene Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 250,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$50 JLab Code",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Woobles Crochet Kit",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 4000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$100 Ardene Card",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 50,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "URUNN 6-Month Plan",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 500000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "WithU Fitness 1 Year",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 400000,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "Audio-Technica Sound Burger",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 500,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Digital Bonus Play",
+      "prize": "$25,000 Cash",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 5,
+      "odds_one_in": null,
+      "odds_display": "Not published",
+      "notes": "Time-seeded; no fixed per-code odds published"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "2027 Nissan LEAF Platinum+ package",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $61,952; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "2026 Can-Am Defender",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $44,049; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "10kt Gold Quarter Pounder",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $20,000; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Kennedy Space Center Astronaut Tour for 4",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $17,325; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Universal Orlando VIP Tour for 4",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $10,040; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Ardene Ultimate Brand Experience",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $10,000; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Wyndham Puerto Rico Getaway for 2",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $8,372; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "JLab Lux Gold Audio Package",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $4,200; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Michaels Shopping Spree",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $3,000; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Circle K Fuel Cards",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $2,500; one prize per draw"
+    },
+    {
+      "category": "Golden Prize Draw",
+      "prize": "Bobby Hull Autographed Jersey",
+      "required_properties": [],
+      "reported_rare_stamp": "Not applicable",
+      "starting_prizes_available": 1,
+      "odds_one_in": null,
+      "odds_display": "Depends on entries",
+      "notes": "Approximate CAD value $1,795; one prize per draw"
+    }
+  ]
+}

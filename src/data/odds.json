@@ -1,0 +1,227 @@
+{
+  "modes": {
+    "fun": {
+      "instantExponent": 0.35,
+      "instantChance": 0.45,
+      "rareExponent": 0.3,
+      "usePools": false
+    },
+    "realistic": {
+      "instantExponent": 1,
+      "instantChance": null,
+      "rareExponent": 1,
+      "usePools": true
+    }
+  },
+  "commonStampWeight": 1,
+  "instant": [
+    {
+      "prizeId": "instant-food-medium-fries",
+      "oddsOneIn": 23
+    },
+    {
+      "prizeId": "instant-food-any-baked-muffin",
+      "oddsOneIn": 37
+    },
+    {
+      "prizeId": "instant-food-small-hot-mccafe-beverage",
+      "oddsOneIn": 39
+    },
+    {
+      "prizeId": "instant-food-cheeseburger",
+      "oddsOneIn": 73
+    },
+    {
+      "prizeId": "instant-food-sandwich",
+      "oddsOneIn": 73
+    },
+    {
+      "prizeId": "instant-food-small-fountain-drink",
+      "oddsOneIn": 81
+    },
+    {
+      "prizeId": "instant-points-1-000-points",
+      "oddsOneIn": 116
+    },
+    {
+      "prizeId": "instant-points-2-000-points",
+      "oddsOneIn": 145
+    },
+    {
+      "prizeId": "instant-points-4-000-points",
+      "oddsOneIn": 145
+    },
+    {
+      "prizeId": "instant-points-6-000-points",
+      "oddsOneIn": 145
+    },
+    {
+      "prizeId": "instant-points-10-000-points",
+      "oddsOneIn": 289
+    },
+    {
+      "prizeId": "instant-points-14-000-points",
+      "oddsOneIn": 578
+    },
+    {
+      "prizeId": "instant-other-10-mcdonalds-card",
+      "oddsOneIn": 10657
+    },
+    {
+      "prizeId": "instant-other-20-photo-prints-code",
+      "oddsOneIn": 77
+    },
+    {
+      "prizeId": "instant-other-20-uber-eats-gift-code",
+      "oddsOneIn": 10657
+    },
+    {
+      "prizeId": "instant-other-30-doordash-gift-code",
+      "oddsOneIn": 35522
+    },
+    {
+      "prizeId": "instant-other-50-cash",
+      "oddsOneIn": 23682
+    },
+    {
+      "prizeId": "instant-other-50-best-buy-gift-card",
+      "oddsOneIn": 71044
+    },
+    {
+      "prizeId": "instant-other-50-things-engraved-card",
+      "oddsOneIn": 53283
+    },
+    {
+      "prizeId": "instant-other-50-michaels-gift-card",
+      "oddsOneIn": 35522
+    },
+    {
+      "prizeId": "instant-other-50-skipthedishes-code",
+      "oddsOneIn": 35522
+    },
+    {
+      "prizeId": "instant-other-50-mcdonalds-card",
+      "oddsOneIn": 71044
+    },
+    {
+      "prizeId": "instant-other-50-circle-k-fuel-card",
+      "oddsOneIn": 53283
+    },
+    {
+      "prizeId": "instant-other-50-jlab-gift-code",
+      "oddsOneIn": 106565
+    },
+    {
+      "prizeId": "instant-other-woobles-crochet-kit",
+      "oddsOneIn": 71044
+    },
+    {
+      "prizeId": "instant-other-google-home-speaker",
+      "oddsOneIn": 149042
+    },
+    {
+      "prizeId": "instant-other-paramount-1-year",
+      "oddsOneIn": 34803
+    },
+    {
+      "prizeId": "instant-other-100-vasanti-cosmetics-code",
+      "oddsOneIn": 106565
+    },
+    {
+      "prizeId": "instant-other-urunn-running-plan-6-months",
+      "oddsOneIn": 214
+    },
+    {
+      "prizeId": "instant-other-150-pickleball-paddles-card",
+      "oddsOneIn": 159768
+    },
+    {
+      "prizeId": "instant-other-withu-fitness-1-year",
+      "oddsOneIn": 107
+    },
+    {
+      "prizeId": "instant-other-200-cash",
+      "oddsOneIn": 106565
+    },
+    {
+      "prizeId": "instant-other-audio-technica-sound-burger",
+      "oddsOneIn": 484387
+    },
+    {
+      "prizeId": "instant-other-large-fries-weekly-for-a-year",
+      "oddsOneIn": 1065650
+    },
+    {
+      "prizeId": "instant-other-1-000-ardene-card",
+      "oddsOneIn": 1065650
+    },
+    {
+      "prizeId": "instant-other-jlab-ultimate-gaming-kit",
+      "oddsOneIn": 10656494
+    },
+    {
+      "prizeId": "instant-other-bloomex-gifts-for-a-year",
+      "oddsOneIn": 2664124
+    },
+    {
+      "prizeId": "instant-other-250-000-wyndham-points",
+      "oddsOneIn": 4843861
+    },
+    {
+      "prizeId": "instant-other-10-000-cash",
+      "oddsOneIn": 15223563
+    }
+  ],
+  "rareStamps": [
+    {
+      "stampNumber": 801,
+      "setId": "set-brown",
+      "oddsOneIn": 15223563
+    },
+    {
+      "stampNumber": 804,
+      "setId": "set-light-blue",
+      "oddsOneIn": 142663477
+    },
+    {
+      "stampNumber": 806,
+      "setId": "set-pink",
+      "oddsOneIn": 57065391
+    },
+    {
+      "stampNumber": 811,
+      "setId": "set-orange",
+      "oddsOneIn": 81521987
+    },
+    {
+      "stampNumber": 812,
+      "setId": "set-red",
+      "oddsOneIn": 20372502
+    },
+    {
+      "stampNumber": 817,
+      "setId": "set-yellow",
+      "oddsOneIn": 108695985
+    },
+    {
+      "stampNumber": 820,
+      "setId": "set-green",
+      "oddsOneIn": 54347993
+    },
+    {
+      "stampNumber": 821,
+      "setId": "set-dark-blue",
+      "oddsOneIn": 17760823
+    },
+    {
+      "stampNumber": 826,
+      "setId": "set-airports",
+      "oddsOneIn": 140840710
+    },
+    {
+      "stampNumber": 828,
+      "setId": "set-highways",
+      "oddsOneIn": 190217970
+    }
+  ]
+}

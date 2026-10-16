@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <linearGradient id="cup" x1="0" x2="1">
+      <stop offset="0" stop-color="#d9d9d9"/>
+      <stop offset="0.4" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#cfcfcf"/>
+    </linearGradient>
+    <linearGradient id="lid" x1="0" x2="1">
+      <stop offset="0" stop-color="#cfcfcf"/>
+      <stop offset="0.5" stop-color="#f4f4f4"/>
+      <stop offset="1" stop-color="#bdbdbd"/>
+    </linearGradient>
+  </defs>
+  <rect x="560" y="30" width="34" height="200" rx="10" fill="#da291c" transform="rotate(14 577 130)"/>
+  <path d="M255 190 h490 l-10 60 h-470 z" fill="url(#lid)"/>
+  <ellipse cx="500" cy="190" rx="245" ry="30" fill="#e9e9e9"/>
+  <path d="M265 250 h470 l-60 690 q-175 30 -350 0 z" fill="url(#cup)"/>
+  <path d="M272 330 h456 l-12 140 q-216 60 -432 0 z" fill="#da291c"/>
+  <path d="M290 700 q210 60 420 0 l-14 160 q-196 40 -392 0 z" fill="#ffc72c"/>
+  <path d="M0 200 C0 40 40 0 60 0 C80 0 100 60 110 140 C120 60 140 0 160 0 C180 0 220 40 220 200 L180 200 C180 90 170 40 160 40 C148 40 130 100 128 200 L92 200 C90 100 72 40 60 40 C50 40 40 90 40 200 Z" fill="#da291c" transform="translate(417.5 540) scale(0.75)"/>
+  <rect x="320" y="880" width="360" height="44" rx="8" fill="#000" opacity="0.35"/>
+  <text x="500" y="910" text-anchor="middle" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#fff" letter-spacing="4">PLACEHOLDER · LARGE DRINK</text>
+</svg>
